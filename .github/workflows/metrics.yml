@@ -63,7 +63,7 @@ jobs:
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
-          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_sections: answers-top, questions-top
           plugin_stackoverflow_user: 6203984
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
@@ -74,3 +74,5 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
