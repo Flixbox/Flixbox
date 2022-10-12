@@ -73,3 +73,6 @@ jobs:
           # plugin_pagespeed: yes
           # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           # plugin_pagespeed_url: https://flixbox.github.io/lp-compat/
+          plugin_anilist: yes
+          plugin_anilist_user: Flixbox
+          
