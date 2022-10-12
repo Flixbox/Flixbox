@@ -75,8 +75,10 @@ jobs:
           # plugin_pagespeed_url: https://flixbox.github.io/lp-compat/
           plugin_anilist: yes
           plugin_anilist_user: Flixbox
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_repositories_visibility: public
-          plugin_wakatime_user: Flixbox
+          # plugin_wakatime: yes
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          # plugin_wakatime_repositories_visibility: public
+          # plugin_wakatime_user: Flixbox
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 5
           
