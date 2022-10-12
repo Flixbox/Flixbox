@@ -28,7 +28,8 @@ jobs:
           user: Flixbox
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories_skipped: fight-club-5e-files,contacts
+          base_indepth: yes
+          repositories_skipped: fight-club-5e-files,contacts,passing-data
           config_octicon: yes
           config_timezone: Europe/Berlin
           config_twemoji: yes
