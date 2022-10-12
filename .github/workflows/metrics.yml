@@ -76,3 +76,6 @@ jobs:
           plugin_topics_sort: stars
           plugin_achievements: yes
           plugin_achievements_threshold: B
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://flixbox.github.io/lp-compat/
