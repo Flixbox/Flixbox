@@ -78,4 +78,5 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_repositories_visibility: public
+          plugin_wakatime_user: Flixbox
           
