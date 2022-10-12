@@ -79,6 +79,6 @@ jobs:
           # plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           # plugin_wakatime_repositories_visibility: public
           # plugin_wakatime_user: Flixbox
-          plugin_discussions: yes
-          plugin_discussions_categories_limit: 5
+          # plugin_discussions: yes
+          # plugin_discussions_categories_limit: 5
           
