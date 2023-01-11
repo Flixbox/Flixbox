@@ -51,16 +51,16 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 1%
-          #plugin_lines: yes
-          #plugin_lines_history_limit: 1
-          #plugin_lines_repositories_limit: 4
-          #plugin_lines_sections: base,repositories,history
-          #plugin_reactions: yes
-          #plugin_reactions_display: absolute
-          #plugin_reactions_limit: 200
-          #plugin_reactions_limit_discussions: 100
-          #plugin_reactions_limit_discussions_comments: 100
-          #plugin_reactions_limit_issues: 100
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base,repositories,history
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_discussions: 100
+          plugin_reactions_limit_discussions_comments: 100
+          plugin_reactions_limit_issues: 100
           #plugin_stackoverflow: yes
           #plugin_stackoverflow_limit: 2
           #plugin_stackoverflow_lines: 4
