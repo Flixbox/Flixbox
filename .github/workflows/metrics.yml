@@ -51,10 +51,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 1%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base,repositories,history
+          #plugin_lines: yes
+          #plugin_lines_history_limit: 1
+          #plugin_lines_repositories_limit: 4
+          #plugin_lines_sections: base,repositories,history
           plugin_reactions: yes
           plugin_reactions_display: absolute
           plugin_reactions_limit: 200
