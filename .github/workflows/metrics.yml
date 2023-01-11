@@ -69,7 +69,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_user: Flixbox
 
-          plugin_reactions: yes
+          # plugin_reactions: yes
           
           # plugin_pagespeed: yes
           # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
