@@ -61,20 +61,19 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          #plugin_stackoverflow: yes
-          #plugin_stackoverflow_limit: 2
-          #plugin_stackoverflow_lines: 4
-          #plugin_stackoverflow_lines_snippet: 2
-          #plugin_stackoverflow_sections: answers-top, questions-top
-          #plugin_stackoverflow_user: 6203984
-          #plugin_stargazers: yes
-          #plugin_stargazers_charts: yes
-          #plugin_stargazers_charts_type: classic
-          #plugin_achievements: yes
-          #plugin_achievements_threshold: B
-
-          # plugin_anilist: yes
-          # plugin_anilist_user: Flixbox
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_sections: answers-top, questions-top
+          plugin_stackoverflow_user: 6203984
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_anilist: yes
+          plugin_anilist_user: Flixbox
           
           # plugin_pagespeed: yes
           # plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
