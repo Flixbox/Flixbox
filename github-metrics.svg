@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    170k added, 25.3k removed
+                                    197k added, 38.5k removed
                                 </div>
                             </section>
                             <section>
@@ -242,6 +242,12 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">Flixbox/bitprint-custom</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">Flixbox/CrystalBodypartsContinued</span>
                         </div>
                         <div class="field">
@@ -249,12 +255,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <span class="diff-handle">Flixbox/ModGallery</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">Flixbox/MedievalOverhaulLeatherPatches</span>
                         </div>
                     </section>
                     <section>
@@ -267,6 +267,18 @@
                             <div class="diff-stats">
                                 <span class="added">  +103k</span>
                                 <span class="deleted"> -6.71k</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +20.6k</span>
+                                <span class="deleted"> -6.54k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -291,18 +303,6 @@
                             <div class="diff-stats">
                                 <span class="added"> +20.3k</span>
                                 <span class="deleted"> -3.94k</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added"> +15.9k</span>
-                                <span class="deleted"> -4.35k</span>
                             </div>
                             <span> </span>
                         </div>
@@ -340,53 +340,29 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,17.818181818181806)">
+                            <g class="tick" opacity="1" transform="translate(0,32.69530812884662)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">10</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,42.45454545454545)">
+                            <g class="tick" opacity="1" transform="translate(0,86.84765406442331)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">8.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,67.0909090909091)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">6.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,91.72727272727273)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">4.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,116.36363636363636)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">2.0</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">5.0k</text>
                             </g>
                             <g class="tick" opacity="1" transform="translate(0,141)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,165.6363636363636)">
+                            <g class="tick" opacity="1" transform="translate(0,195.1523459355767)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−2.0</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−5.0k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,190.27272727272728)">
+                            <g class="tick" opacity="1" transform="translate(0,249.30469187115338)">
                                 <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−4.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,214.9090909090909)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−6.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,239.54545454545456)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−8.0</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,264.1818181818182)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em">−10</text>
+                                <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L441,140.5L441,103.545L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L441,140.5L441,177.455L39,276Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L412.286,140.5L441,140.5L441,140.468L412.286,5L39,140.381Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L412.286,140.5L441,140.5L441,140.532L412.286,165.486L39,140.619Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -3199,7 +3175,7 @@ According to the documentation:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 658k out of 70.2m repositories</span>
+                                    <span class="gh">ranked 658k out of 69m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 43 stars</div>
                             </div>
@@ -3245,7 +3221,7 @@ According to the documentation:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.63m out of 70.2m repositories</span>
+                                    <span class="gh">ranked 2.63m out of 69m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -3475,7 +3451,7 @@ According to the documentation:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2024, 17:17:17 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2024, 18:12:56 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
