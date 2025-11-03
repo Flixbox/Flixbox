@@ -31,11 +31,11 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
-          plugin_habits_languages_threshold: 10%
+          # plugin_habits: yes
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: yes
+          # plugin_habits_charts_type: graph
+          # plugin_habits_languages_threshold: 10%
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -72,10 +72,10 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-top
 
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          # plugin_achievements: yes
+          # plugin_achievements_display: detailed
+          # plugin_achievements_secrets: yes
+          # plugin_achievements_threshold: C
 
           plugin_anilist: yes
           plugin_anilist_user: Flixbox
@@ -87,7 +87,7 @@ jobs:
           # plugin_activity: yes
           # plugin_calendar: yes
           # plugin_code: yes
-          # plugin_contributors: yes
+          plugin_contributors: yes
           # plugin_discussions: yes
           # plugin_discussions_categories_limit: 5
           # plugin_fortune: yes
@@ -102,10 +102,10 @@ jobs:
           # plugin_music_provider: spotify
           # plugin_music_token: ${{ secrets.SPOTIFY_TOKEN }}
           # plugin_notable: yes
-          # plugin_people: yes
-          # plugin_people_types: followers, following
+          plugin_people: yes
+          plugin_people_types: followers, following
           # plugin_projects: yes
-          # plugin_reactions: yes
+          plugin_reactions: yes
           # plugin_repositories: yes
           # plugin_repositories_affiliations: owner, collaborator
           # plugin_repositories_batch: 100
@@ -116,7 +116,7 @@ jobs:
           # plugin_skyline: yes
           # plugin_skyline_year: current-year
           # plugin_support: yes
-          # plugin_traffic: yes
+          plugin_traffic: yes
           # plugin_tweets: yes
           # plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           # plugin_tweets_user: Flixbox
